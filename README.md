@@ -1,3 +1,4 @@
 # ismartweb-app
-this is our frist git repository
-author - rakesh
+this is our frist git repository.
+<br>
+author - rakesh and chandu
